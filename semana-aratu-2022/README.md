@@ -15,3 +15,34 @@ Até o momento da criação desse repositório, essa edição foi a que mais tev
 - [Conviso Application Security](https://www.convisoappsec.com/);
 - [IdWall](https://idwall.co/);
 - [Faculdade Vincit](https://www.faculdadevincit.edu.br/).
+
+<h1 align="center"> Portal Transparência | Semana Aratu 2022 - CTF </h1>
+
+A dinâmica do nosso Capture The Flag (CTF) na segunda edição da Semana Aratu foi realizada pelo nosso BOT Curupira, um bot feito pela comunidade, esse bot é responsável pela listagem dos desafios, resolução, contabilização dos pontos e outras coisas.
+Devido aos nossos patrocinadores foi possível ter premiação até o 10° lugar, sendo a seguinte premiação:
+
+```
+01. R$1.200
+02. R$300
+03. R$150
+04. Gift Card Ifood R$100
+05. Gift Card Ifood R$100
+06. Gift Card Ifood R$100
+07. Gift Card Ifood R$100
+08. Gift Card Ifood R$50
+09. Gift Card Ifood R$50
+10. Gift Card Ifood R$50
+```
+
+> No primeiro momento, a premiação do 1° Lugar seria de R$600. Quando começamos a divulgar o CTF o nosso patrocinador Hakai dobrou a premiação do primeiro lugar, ficando R$1.200!! Muito obrigado [Hakai](https://www.hakaioffensivesecurity.com/) ❤️
+
+
+
+
+
+
+
+
+
+
+
