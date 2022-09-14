@@ -18,8 +18,8 @@ Até o momento da criação desse repositório, essa edição foi a que mais tev
 
 <h1 align="center"> Portal Transparência | Semana Aratu 2022 - CTF </h1>
 
-A dinâmica do nosso Capture The Flag (CTF) na segunda edição da Semana Aratu foi realizada pelo nosso BOT Curupira, um bot feito pela comunidade, esse bot é responsável pela listagem dos desafios, resolução, contabilização dos pontos e outras coisas.
-Devido aos nossos patrocinadores foi possível ter premiação até o 10° lugar, sendo a seguinte premiação:
+A dinâmica do nosso *Capture The Flag* (CTF) na segunda edição da Semana Aratu foi realizada pelo nosso **BOT Curupira**, um bot feito pela comunidade, esse bot é responsável pela listagem dos desafios, resolução, contabilização dos pontos e outras coisas.
+Devido aos nossos patrocinadores foi possível ter premiação até o **10° lugar**, sendo a seguinte premiação:
 
 ```
 01. R$1.200
