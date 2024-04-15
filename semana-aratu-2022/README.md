@@ -1,7 +1,7 @@
 <h1 align="center"> Portal Transparência | Semana Aratu 2022 </h1>
 
 <div align='center'>
-    <img src='https://i.imgur.com/L9nmyHE.png' width="300" height="300">
+    <img src='https://mediakit.boitatech.com/images/logos/logo_sec.png' width="300" height="300">
 </div>
 
 A segunda edição da Semana Aratu teve início no dia **05/09/2022** e terminou no dia **11/09/2022**, contando com **26** palestrantes e **5** workshops, como por ser observado no nosso [calendário de palestras](https://github.com/boitatech/palestras-aratu/tree/master/semana-aratu-2022).
